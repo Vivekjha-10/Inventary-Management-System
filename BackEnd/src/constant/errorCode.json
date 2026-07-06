@@ -1,0 +1,310 @@
+{
+  "000": {
+    "errorCode": "000",
+    "errorMsg": "Success",
+    "errorType": "B"
+  },
+  "001": {
+    "errorCode": "001",
+    "errorMsg": "Database Exception",
+    "errorType": "T"
+  },
+  "408": {
+    "errorCode": "408",
+    "errorMsg": "Request Timed Out",
+    "errorType": "T"
+  },
+  "002": {
+    "errorCode": "002",
+    "errorMsg": "No data found",
+    "errorType": "T"
+  },
+  "003": {
+    "errorCode": "003",
+    "errorMsg": "Improper Response",
+    "errorType": "T"
+  },
+  "004": {
+    "errorCode": "004",
+    "errorMsg": "Password or Email Id is Missing",
+    "errorType": "B"
+  },
+  "005": {
+    "errorCode": "005",
+    "errorMsg": "Fullname or Email Id is Missing",
+    "errorType": "B"
+  },
+  "006": {
+    "errorCode": "006",
+    "errorMsg": "Invalid Email Id provided",
+    "errorType": "B"
+  },
+  "007": {
+    "errorCode": "007",
+    "errorMsg": "Password is missing",
+    "errorType": "B"
+  },
+  "008": {
+    "errorCode": "008",
+    "errorMsg": "No data available",
+    "errorType": "B"
+  },
+  "009": {
+    "errorCode": "009",
+    "errorMsg": "Unable to process your request, please try again",
+    "errorType": "B"
+  },
+  "010": {
+    "errorCode": "010",
+    "errorMsg": "This email is already assigned to another user",
+    "errorType": "B"
+  },
+  "011": {
+    "errorCode": "011",
+    "errorMsg": "Unable to fetch or submit from database",
+    "errorType": "B"
+  },
+  "012": {
+    "errorCode": "012",
+    "errorMsg": "User is not verified. Kindly contact System Admin.",
+    "errorType": "B"
+  },
+  "013": {
+    "errorCode": "013",
+    "errorMsg": "Please contact admin. Your account has been deleted or blocked!",
+    "errorType": "B"
+  },
+  "014": {
+    "errorCode": "014",
+    "errorMsg": "Incorrect password",
+    "errorType": "B"
+  },
+  "015": {
+    "errorCode": "015",
+    "errorMsg": "Session expires. Please login againd",
+    "errorType": "B"
+  },
+  "016": {
+    "errorCode": "016",
+    "errorMsg": "Authorization Token Missing",
+    "errorType": "B"
+  },
+  "017": {
+    "errorCode": "017",
+    "errorMsg": "Invaild user...",
+    "errorType": "B"
+  },
+  "018": {
+    "errorCode": "018",
+    "errorMsg": "Bad Request",
+    "errorType": "B"
+  },
+  "019": {
+    "errorCode": "019",
+    "errorMsg": "No user id is available.",
+    "errorType": "B"
+  },
+  "020": {
+    "errorCode": "020",
+    "errorMsg": "Invalid email Id",
+    "errorType": "B"
+  },
+  "021": {
+    "errorCode": "021",
+    "errorMsg": "Missing user id and fullname.",
+    "errorType": "B"
+  },
+  "022": {
+    "errorCode": "022",
+    "errorMsg": "Missing file.",
+    "errorType": "B"
+  },
+  "023": {
+    "errorCode": "023",
+    "errorMsg": "Missing section id.",
+    "errorType": "B"
+  },
+  "024": {
+    "errorCode": "024",
+    "errorMsg": "Unable to insert / update full details.",
+    "errorType": "T"
+  },
+  "025": {
+    "errorCode": "025",
+    "errorMsg": "Unable to insert / update user details. Kindly contact System Admin.",
+    "errorType": "T"
+  },
+  "026": {
+    "errorCode": "026",
+    "errorMsg": "Unable to fetch the section details",
+    "errorType": "T"
+  },
+  "027": {
+    "errorCode": "027",
+    "errorMsg": "Unable to fetch the warehouse list details",
+    "errorType": "T"
+  },
+  "028": {
+    "errorCode": "028",
+    "errorMsg": "Unable to fetch the dashboard details",
+    "errorType": "T"
+  },
+  "029": {
+    "errorCode": "029",
+    "errorMsg": "Unable to fetch the master details",
+    "errorType": "T"
+  },
+  "030": {
+    "errorCode": "030",
+    "errorMsg": "Unable to fetch the item no and lot no details",
+    "errorType": "T"
+  },
+  "031": {
+    "errorCode": "031",
+    "errorMsg": "Unable to delete details",
+    "errorType": "T"
+  },
+  "032": {
+    "errorCode": "032",
+    "errorMsg": "Missing lot number",
+    "errorType": "B"
+  },
+  "033": {
+    "errorCode": "033",
+    "errorMsg": "Unable to fetch the lot details",
+    "errorType": "T"
+  },
+  "034": {
+    "errorCode": "034",
+    "errorMsg": "Missing input parameters",
+    "errorType": "T"
+  },
+  "035": {
+    "errorCode": "035",
+    "errorMsg": "Invalid quantity provided.",
+    "errorType": "B"
+  },
+  "036": {
+    "errorCode": "036",
+    "errorMsg": "Unable to add the quantity.",
+    "errorType": "T"
+  },
+  "037": {
+    "errorCode": "037",
+    "errorMsg": "Unable to dispatch the quantity.",
+    "errorType": "T"
+  },
+  "038": {
+    "errorCode": "038",
+    "errorMsg": "Unable to fetch warehouse details.",
+    "errorType": "T"
+  },
+  "039": {
+    "errorCode": "039",
+    "errorMsg": "Unable to dispatch the master quantity.",
+    "errorType": "T"
+  },
+  "040": {
+    "errorCode": "040",
+    "errorMsg": "Missing date",
+    "errorType": "T"
+  },
+  "041": {
+    "errorCode": "041",
+    "errorMsg": "Missing date parameters",
+    "errorType": "B"
+  },
+  "042": {
+    "errorCode": "042",
+    "errorMsg": "Unable to fetch the warehouse list details",
+    "errorType": "T"
+  },
+  "043": {
+    "errorCode": "043",
+    "errorMsg": "Invalid date / from date should not be greater then to date.",
+    "errorType": "B"
+  },
+  "044": {
+    "errorCode": "044",
+    "errorMsg": "Unable to delete full records.",
+    "errorType": "T"
+  },
+  "045": {
+    "errorCode": "045",
+    "errorMsg": "Missing input record.",
+    "errorType": "B"
+  },
+  "046": {
+    "errorCode": "046",
+    "errorMsg": "Invalid bin code.",
+    "errorType": "B"
+  },
+  "047": {
+    "errorCode": "047",
+    "errorMsg": "Unable to fetch the bin code",
+    "errorType": "T"
+  },
+  "048": {
+    "errorCode": "048",
+    "errorMsg": "Unable to add the details",
+    "errorType": "T"
+  },
+  "049": {
+    "errorCode": "049",
+    "errorMsg": "Unable to update the master warehouse",
+    "errorType": "T"
+  },
+  "050": {
+    "errorCode": "050",
+    "errorMsg": "Unable to fetch number of batch from warehouse.",
+    "errorType": "T"
+  },
+  "051": {
+    "errorCode": "051",
+    "errorMsg": "Unable to delete the record.",
+    "errorType": "T"
+  },
+  "052": {
+    "errorCode": "052",
+    "errorMsg": "Unable to delete the master details.",
+    "errorType": "T"
+  },
+  "053": {
+    "errorCode": "053",
+    "errorMsg": "Unable to update the details",
+    "errorType": "B"
+  },
+  "054": {
+    "errorCode": "054",
+    "errorMsg": "Record ID missing",
+    "errorType": "B"
+  },
+
+
+
+  "999": {
+    "errorCode": "999",
+    "errorMsg": "Something went wrong. Kindly contact System Admin.",
+    "errorType": "T"
+  },
+  "101": {
+    "errorCode": "101",
+    "errorMsg": "Due to technical issue we are unable to process now.",
+    "errorType": "T"
+  },
+  "102": {
+    "errorCode": "102",
+    "errorMsg": "No data found ",
+    "errorType": "T"
+  },
+  "103": {
+    "errorCode": "103",
+    "errorMsg": "Database service is not enable",
+    "errorType": "T"
+  },
+  "105": {
+    "errorCode": "105",
+    "errorMsg": "We were unable to process your request. We regret the inconvenience & request you to please try again later. Thank you.",
+    "errorType": "T"
+  }
+}
